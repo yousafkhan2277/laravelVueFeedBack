@@ -2,15 +2,15 @@
 # laravelVueFeedBack
 using laravel 10 and vue 3 feedback system with laravel sanctum authentication.
 
-please clone form "https://github.com/yousafkhan2277/laravelVueFeedBack.git"
-composer install
-create .env file
-create database and set database credential
-php artisan migrate
-php artisan db:seed 
-npm install
-php artisan serve
-npm install
+- please clone form "https://github.com/yousafkhan2277/laravelVueFeedBack.git"
+- composer install
+- create .env file
+- create database and set database credential
+- php artisan migrate
+- php artisan db:seed 
+- npm install
+- php artisan serve
+- npm install
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 

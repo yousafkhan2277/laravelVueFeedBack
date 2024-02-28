@@ -1,0 +1,70 @@
+{
+  "hash": "23f92d8a",
+  "configHash": "5b5bc4c5",
+  "lockfileHash": "34633c19",
+  "browserHash": "ab669c46",
+  "optimized": {
+    "vue/dist/vue.esm-bundler": {
+      "src": "../../node_modules/vue/dist/vue.esm-bundler.js",
+      "file": "vue_dist_vue__esm-bundler.js",
+      "fileHash": "3382e171",
+      "needsInterop": false
+    },
+    "lodash": {
+      "src": "../../node_modules/lodash/lodash.js",
+      "file": "lodash.js",
+      "fileHash": "5797a6f8",
+      "needsInterop": true
+    },
+    "@popperjs/core": {
+      "src": "../../node_modules/@popperjs/core/lib/index.js",
+      "file": "@popperjs_core.js",
+      "fileHash": "a146af27",
+      "needsInterop": false
+    },
+    "bootstrap": {
+      "src": "../../node_modules/bootstrap/dist/js/bootstrap.esm.js",
+      "file": "bootstrap.js",
+      "fileHash": "00d327e8",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "99d05ea2",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "531f840f",
+      "needsInterop": false
+    },
+    "vuex": {
+      "src": "../../node_modules/vuex/dist/vuex.esm-bundler.js",
+      "file": "vuex.js",
+      "fileHash": "5358ce13",
+      "needsInterop": false
+    },
+    "vuex-persistedstate": {
+      "src": "../../node_modules/vuex-persistedstate/dist/vuex-persistedstate.es.js",
+      "file": "vuex-persistedstate.js",
+      "fileHash": "6200ec52",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-2PYXANVS": {
+      "file": "chunk-2PYXANVS.js"
+    },
+    "chunk-RL2JP4K7": {
+      "file": "chunk-RL2JP4K7.js"
+    },
+    "chunk-IF7GFXCB": {
+      "file": "chunk-IF7GFXCB.js"
+    },
+    "chunk-P2LSHJDD": {
+      "file": "chunk-P2LSHJDD.js"
+    }
+  }
+}

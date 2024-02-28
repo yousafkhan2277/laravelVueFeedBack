@@ -72,6 +72,7 @@ export default {
                 this.validationErrors = {}
                 this.signIn()
             }).catch(({response})=>{
+                console.log("response",response);
                 if(response.status===422){
                     this.validationErrors = response.data.errors
                 }else{
